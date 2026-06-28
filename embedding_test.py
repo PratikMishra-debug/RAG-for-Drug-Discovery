@@ -1,8 +1,14 @@
+import os
+
+print(os.getcwd())
+
 from sentence_transformers import SentenceTransformer
 import pandas as pd
 
 # Load dataset
-data = pd.read_csv("data/drug_data.csv")
+data = pd.read_csv(
+  pd.read_csv("data/drug_data.csv")
+)
 
 print("Dataset:")
 print(data.head())
