@@ -2,7 +2,7 @@
 
 ## Overview
 
-Drug-RAG is a Retrieval-Augmented Generation (RAG) based question answering system designed to reduce hallucination in Large Language Models (LLMs) for drug-related queries.
+Drug-RAG is a Retrieval-Augmented Generation (RAG) based question answering system designed to reduce hallucination in Large Language Models (LLMs) for drug-related queriesResearch Paper
 
 The project compares:
 
@@ -77,7 +77,7 @@ The system evaluates:
 
 Screenshots:
 
-(Add your screenshots here)
+
 
 ---
 
