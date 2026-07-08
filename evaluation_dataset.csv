@@ -1,6 +1,6 @@
 Drug,Category,Question,Reference_Answer
 
-Drug,Category,Question,Reference_Answer
+
 Aspirin,Indication,What is aspirin used for?,"Aspirin is used to relieve mild to moderate pain, reduce fever and inflammation, and in low doses to reduce the risk of heart attack and ischemic stroke by inhibiting platelet aggregation."
 Aspirin,Mechanism of Action,How does aspirin work?,"Aspirin irreversibly inhibits cyclooxygenase (COX-1 and COX-2) enzymes, decreasing prostaglandin synthesis. At low doses it also inhibits thromboxane A2 production, reducing platelet aggregation."
 Aspirin,Dosage,What is the usual adult dose of aspirin for pain relief?,"For adults, the typical dose is 325–650 mg every 4–6 hours as needed, without exceeding the recommended maximum daily dose unless directed by a healthcare professional."
@@ -18,7 +18,7 @@ Aspirin,Prescription Status,Is aspirin available over the counter?,"Low-dose and
 Aspirin,Precautions,What precautions should patients follow while taking aspirin?,"Patients should avoid combining aspirin with other NSAIDs without medical advice, report any unusual bleeding, inform healthcare providers before surgery, and follow the prescribed dosage carefully."
 
 
-Drug,Category,Question,Reference_Answer
+
 Paracetamol,Indication,What is paracetamol used for?,"Paracetamol (acetaminophen) is used to relieve mild to moderate pain and reduce fever. It is commonly used for headaches, toothaches, muscle aches, arthritis, back pain, and cold or flu symptoms."
 Paracetamol,Mechanism of Action,How does paracetamol work?,"Paracetamol reduces pain and fever primarily by inhibiting prostaglandin synthesis within the central nervous system. Its anti-inflammatory effect is minimal compared with NSAIDs."
 Paracetamol,Dosage,What is the usual adult dose of paracetamol?,"The usual adult dose is 500–1000 mg every 4–6 hours as needed. The total daily dose should generally not exceed 4000 mg, and lower limits may apply for older adults or people with liver disease."
@@ -37,7 +37,7 @@ Paracetamol,Precautions,What precautions should patients follow while taking par
 
 
 
-Drug,Category,Question,Reference_Answer
+
 Ibuprofen,Indication,What is ibuprofen used for?,"Ibuprofen is a nonsteroidal anti-inflammatory drug (NSAID) used to relieve mild to moderate pain, reduce inflammation, and lower fever. It is commonly used for headaches, dental pain, menstrual cramps, arthritis, muscle pain, and minor injuries."
 Ibuprofen,Mechanism of Action,How does ibuprofen work?,"Ibuprofen works by reversibly inhibiting cyclooxygenase (COX-1 and COX-2) enzymes, reducing prostaglandin synthesis responsible for pain, inflammation, and fever."
 Ibuprofen,Dosage,What is the usual adult dose of ibuprofen?,"For adults, the typical over-the-counter dose is 200–400 mg every 4–6 hours as needed. Prescription doses may be higher under medical supervision. The maximum daily dose depends on whether it is OTC or prescription."
@@ -55,7 +55,7 @@ Ibuprofen,Prescription Status,Is ibuprofen available over the counter?,"Yes. Low
 Ibuprofen,Precautions,What precautions should patients follow while taking ibuprofen?,"Patients should take ibuprofen with food if stomach upset occurs, avoid combining it with other NSAIDs unless instructed, use the lowest effective dose for the shortest duration, and seek medical attention if signs of bleeding, allergic reaction, or severe pain occur."
 
 
-Drug,Category,Question,Reference_Answer
+
 Metformin,Indication,What is metformin used for?,"Metformin is an oral antihyperglycemic medication primarily used to treat type 2 diabetes mellitus. It helps improve blood glucose control and may also be prescribed for polycystic ovary syndrome (PCOS) in selected patients."
 Metformin,Mechanism of Action,How does metformin work?,"Metformin decreases glucose production by the liver, improves insulin sensitivity in peripheral tissues, and reduces intestinal glucose absorption without directly stimulating insulin secretion."
 Metformin,Dosage,What is the usual adult dose of metformin?,"Treatment commonly begins with 500 mg once or twice daily or 850 mg once daily. The dose is gradually increased based on blood glucose response and tolerability, with a typical maximum daily dose of 2000–2550 mg depending on the formulation."
@@ -73,7 +73,7 @@ Metformin,Prescription Status,Is metformin available over the counter?,"No. Metf
 Metformin,Precautions,What precautions should patients follow while taking metformin?,"Patients should take metformin with meals to reduce gastrointestinal side effects, undergo periodic kidney function assessment, monitor vitamin B12 levels during long-term therapy, and temporarily discontinue metformin before certain imaging procedures involving iodinated contrast when recommended."
 
 
-Drug,Category,Question,Reference_Answer
+
 Insulin,Indication,What is insulin used for?,"Insulin is used to control blood glucose levels in people with type 1 diabetes and in many people with type 2 diabetes when lifestyle changes or oral medications are insufficient. It is also used in gestational diabetes and certain emergency conditions such as diabetic ketoacidosis."
 Insulin,Mechanism of Action,How does insulin work?,"Insulin lowers blood glucose by promoting glucose uptake into muscle and fat cells, suppressing glucose production by the liver, and promoting glycogen, fat, and protein synthesis."
 Insulin,Dosage,What is the usual dose of insulin?,"Insulin dosage is individualized based on blood glucose levels, body weight, diet, physical activity, and the specific insulin formulation. There is no single standard dose applicable to all patients."
@@ -91,7 +91,7 @@ Insulin,Prescription Status,Is insulin available over the counter?,"Most insulin
 Insulin,Precautions,What precautions should patients follow while using insulin?,"Patients should regularly monitor blood glucose, rotate injection sites, recognize signs of hypoglycemia, avoid using expired insulin, verify the correct insulin type before administration, and follow individualized treatment plans."
 
 
-Drug,Category,Question,Reference_Answer
+
 Amoxicillin,Indication,What is amoxicillin used for?,"Amoxicillin is a penicillin-class antibiotic used to treat susceptible bacterial infections, including infections of the ear, nose, throat, respiratory tract, urinary tract, skin, and certain dental infections."
 Amoxicillin,Mechanism of Action,How does amoxicillin work?,"Amoxicillin inhibits bacterial cell wall synthesis by binding to penicillin-binding proteins (PBPs), leading to bacterial cell lysis and death."
 Amoxicillin,Dosage,What is the usual adult dose of amoxicillin?,"The dosage depends on the infection being treated. Typical adult doses range from 250–500 mg every 8 hours or 500–875 mg every 12 hours, as prescribed by a healthcare professional."
@@ -109,7 +109,7 @@ Amoxicillin,Prescription Status,Is amoxicillin available over the counter?,"No. 
 Amoxicillin,Precautions,What precautions should patients follow while taking amoxicillin?,"Patients should complete the full prescribed course, avoid using antibiotics for viral infections, inform healthcare providers of any penicillin allergy, and seek medical attention if severe diarrhea or allergic reactions occur."
 
 
-Drug,Category,Question,Reference_Answer
+
 Atorvastatin,Indication,What is atorvastatin used for?,"Atorvastatin is used to lower low-density lipoprotein (LDL) cholesterol and triglycerides, increase high-density lipoprotein (HDL) cholesterol, and reduce the risk of cardiovascular events such as heart attack and stroke."
 Atorvastatin,Mechanism of Action,How does atorvastatin work?,"Atorvastatin inhibits HMG-CoA reductase, the rate-limiting enzyme in cholesterol synthesis, resulting in reduced hepatic cholesterol production and increased LDL receptor activity that removes LDL cholesterol from the bloodstream."
 Atorvastatin,Dosage,What is the usual adult dose of atorvastatin?,"The usual adult dose ranges from 10 mg to 80 mg once daily depending on the patient's cardiovascular risk, cholesterol levels, and treatment goals."
@@ -126,7 +126,7 @@ Atorvastatin,Storage,How should atorvastatin be stored?,"Store atorvastatin tabl
 Atorvastatin,Prescription Status,Is atorvastatin available over the counter?,"No. Atorvastatin is a prescription-only medication in most countries."
 Atorvastatin,Precautions,What precautions should patients follow while taking atorvastatin?,"Patients should follow a cholesterol-lowering diet, report unexplained muscle pain or weakness, undergo periodic liver function assessment when clinically indicated, and inform healthcare providers about all concurrent medications."
 
-Drug,Category,Question,Reference_Answer
+
 Omeprazole,Indication,What is omeprazole used for?,"Omeprazole is a proton pump inhibitor (PPI) used to treat gastroesophageal reflux disease (GERD), peptic ulcers, erosive esophagitis, Zollinger-Ellison syndrome, and other conditions involving excessive stomach acid production."
 Omeprazole,Mechanism of Action,How does omeprazole work?,"Omeprazole irreversibly inhibits the hydrogen-potassium ATPase (proton pump) in gastric parietal cells, thereby reducing gastric acid secretion."
 Omeprazole,Dosage,What is the usual adult dose of omeprazole?,"The usual adult dose ranges from 20 mg to 40 mg once daily depending on the medical condition being treated. The dosage and duration should follow healthcare provider recommendations."
@@ -144,7 +144,7 @@ Omeprazole,Prescription Status,Is omeprazole available over the counter?,"Low-do
 Omeprazole,Precautions,What precautions should patients follow while taking omeprazole?,"Patients should use the lowest effective dose for the shortest necessary duration, report persistent gastrointestinal symptoms, avoid prolonged self-medication, and discuss long-term therapy with their healthcare provider due to potential nutritional deficiencies and other risks."
 
 
-Drug,Category,Question,Reference_Answer
+
 Losartan,Indication,What is losartan used for?,"Losartan is an angiotensin II receptor blocker (ARB) used to treat hypertension, reduce the risk of stroke in selected patients with hypertension and left ventricular hypertrophy, and slow the progression of diabetic kidney disease in patients with type 2 diabetes."
 Losartan,Mechanism of Action,How does losartan work?,"Losartan selectively blocks the angiotensin II type 1 (AT1) receptor, preventing vasoconstriction and reducing aldosterone secretion. This lowers blood pressure and decreases the workload on the heart."
 Losartan,Dosage,What is the usual adult dose of losartan?,"The usual starting dose for adults with hypertension is 50 mg once daily. Depending on the patient's response and clinical condition, the dose may range from 25 mg to 100 mg daily."
@@ -162,7 +162,7 @@ Losartan,Prescription Status,Is losartan available over the counter?,"No. Losart
 Losartan,Precautions,What precautions should patients follow while taking losartan?,"Patients should monitor blood pressure regularly, have kidney function and serum potassium checked when clinically indicated, avoid potassium-containing salt substitutes unless advised otherwise, and inform healthcare providers of pregnancy or plans to become pregnant."
 
 
-Drug,Category,Question,Reference_Answer
+
 Amlodipine,Indication,What is amlodipine used for?,"Amlodipine is a calcium channel blocker used to treat hypertension (high blood pressure) and chronic stable or vasospastic angina. Lowering blood pressure helps reduce the risk of stroke, heart attack, and kidney complications."
 Amlodipine,Mechanism of Action,How does amlodipine work?,"Amlodipine blocks L-type calcium channels in vascular smooth muscle, causing vasodilation and reducing peripheral vascular resistance. This lowers blood pressure and decreases the heart's workload."
 Amlodipine,Dosage,What is the usual adult dose of amlodipine?,"The usual starting dose for adults is 5 mg once daily. Depending on the patient's response, the dose may be increased to a maximum of 10 mg once daily."
