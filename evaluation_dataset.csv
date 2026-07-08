@@ -71,3 +71,43 @@ Metformin,Overdose,What are the symptoms of a metformin overdose?,"Metformin ove
 Metformin,Storage,How should metformin be stored?,"Store metformin tablets at room temperature in a dry place away from moisture, excessive heat, and direct sunlight. Keep the medication out of reach of children."
 Metformin,Prescription Status,Is metformin available over the counter?,"No. Metformin is a prescription-only medication in most countries and should be used under the supervision of a qualified healthcare professional."
 Metformin,Precautions,What precautions should patients follow while taking metformin?,"Patients should take metformin with meals to reduce gastrointestinal side effects, undergo periodic kidney function assessment, monitor vitamin B12 levels during long-term therapy, and temporarily discontinue metformin before certain imaging procedures involving iodinated contrast when recommended."
+
+
+Drug,Category,Question,Reference_Answer
+Insulin,Indication,What is insulin used for?,"Insulin is used to control blood glucose levels in people with type 1 diabetes and in many people with type 2 diabetes when lifestyle changes or oral medications are insufficient. It is also used in gestational diabetes and certain emergency conditions such as diabetic ketoacidosis."
+Insulin,Mechanism of Action,How does insulin work?,"Insulin lowers blood glucose by promoting glucose uptake into muscle and fat cells, suppressing glucose production by the liver, and promoting glycogen, fat, and protein synthesis."
+Insulin,Dosage,What is the usual dose of insulin?,"Insulin dosage is individualized based on blood glucose levels, body weight, diet, physical activity, and the specific insulin formulation. There is no single standard dose applicable to all patients."
+Insulin,Side Effects,What are the common side effects of insulin?,"Common side effects include hypoglycemia, weight gain, redness or swelling at the injection site, itching, and mild skin reactions."
+Insulin,Serious Adverse Effects,What serious side effects can insulin cause?,"Serious adverse effects include severe hypoglycemia, allergic reactions, hypokalemia, and rarely generalized hypersensitivity reactions requiring immediate medical attention."
+Insulin,Contraindications,Who should avoid taking insulin?,"Insulin should not be administered during episodes of hypoglycemia or in individuals with a known hypersensitivity to a specific insulin preparation or one of its components."
+Insulin,Pregnancy,Can insulin be used during pregnancy?,"Yes. Insulin is considered the preferred treatment for diabetes requiring medication during pregnancy because it does not cross the placenta in clinically significant amounts."
+Insulin,Breastfeeding,Is insulin safe during breastfeeding?,"Yes. Insulin is considered safe during breastfeeding. Dosage adjustments may be required because insulin needs often change after delivery."
+Insulin,Drug Interactions,Which drugs commonly interact with insulin?,"Interactions may occur with corticosteroids, beta-blockers, thiazide diuretics, ACE inhibitors, oral antidiabetic agents, alcohol, and other medications that increase or decrease blood glucose."
+Insulin,Alcohol,Can alcohol be consumed while using insulin?,"Alcohol should be consumed cautiously because it may increase the risk of delayed hypoglycemia, particularly when consumed without food."
+Insulin,Missed Dose,What should a patient do if an insulin dose is missed?,"Management depends on the insulin type and blood glucose level. Patients should monitor their glucose, follow their healthcare provider's instructions, and avoid taking extra insulin without guidance."
+Insulin,Overdose,What are the symptoms of an insulin overdose?,"Insulin overdose commonly causes hypoglycemia with symptoms including sweating, shakiness, hunger, dizziness, confusion, blurred vision, seizures, unconsciousness, and potentially death if untreated."
+Insulin,Storage,How should insulin be stored?,"Unused insulin should be refrigerated according to manufacturer instructions. Once opened, many insulin products can be stored at room temperature for a specified period while avoiding excessive heat and direct sunlight."
+Insulin,Prescription Status,Is insulin available over the counter?,"Most insulin formulations require a prescription, although availability varies by country and certain human insulin products may be available without a prescription in some regions."
+Insulin,Precautions,What precautions should patients follow while using insulin?,"Patients should regularly monitor blood glucose, rotate injection sites, recognize signs of hypoglycemia, avoid using expired insulin, verify the correct insulin type before administration, and follow individualized treatment plans."
+
+
+Drug,Category,Question,Reference_Answer
+Amoxicillin,Indication,What is amoxicillin used for?,"Amoxicillin is a penicillin-class antibiotic used to treat susceptible bacterial infections, including infections of the ear, nose, throat, respiratory tract, urinary tract, skin, and certain dental infections."
+Amoxicillin,Mechanism of Action,How does amoxicillin work?,"Amoxicillin inhibits bacterial cell wall synthesis by binding to penicillin-binding proteins (PBPs), leading to bacterial cell lysis and death."
+Amoxicillin,Dosage,What is the usual adult dose of amoxicillin?,"The dosage depends on the infection being treated. Typical adult doses range from 250–500 mg every 8 hours or 500–875 mg every 12 hours, as prescribed by a healthcare professional."
+Amoxicillin,Side Effects,What are the common side effects of amoxicillin?,"Common side effects include nausea, vomiting, diarrhea, mild skin rash, abdominal discomfort, and headache."
+Amoxicillin,Serious Adverse Effects,What serious side effects can amoxicillin cause?,"Serious adverse effects include severe allergic reactions (anaphylaxis), Clostridioides difficile-associated diarrhea, Stevens-Johnson syndrome, liver injury, and severe skin reactions."
+Amoxicillin,Contraindications,Who should avoid taking amoxicillin?,"Individuals with a known allergy to amoxicillin, penicillin antibiotics, or other beta-lactam antibiotics should generally avoid amoxicillin unless advised otherwise by a healthcare professional."
+Amoxicillin,Pregnancy,Can amoxicillin be used during pregnancy?,"Amoxicillin is generally considered safe during pregnancy when prescribed by a healthcare professional and when the expected benefits outweigh any potential risks."
+Amoxicillin,Breastfeeding,Is amoxicillin safe during breastfeeding?,"Yes. Small amounts pass into breast milk, but amoxicillin is generally considered compatible with breastfeeding. Infants should be monitored for diarrhea or oral thrush."
+Amoxicillin,Drug Interactions,Which drugs commonly interact with amoxicillin?,"Potential interactions include warfarin, methotrexate, probenecid, allopurinol, and certain oral contraceptives, although evidence regarding contraceptive effectiveness is limited."
+Amoxicillin,Alcohol,Can alcohol be consumed while taking amoxicillin?,"Moderate alcohol consumption does not directly reduce the effectiveness of amoxicillin, but excessive alcohol may worsen side effects and delay recovery from infection."
+Amoxicillin,Missed Dose,What should a patient do if a dose of amoxicillin is missed?,"Take the missed dose as soon as remembered unless it is almost time for the next scheduled dose. Do not double the next dose."
+Amoxicillin,Overdose,What are the symptoms of an amoxicillin overdose?,"Symptoms may include nausea, vomiting, diarrhea, abdominal pain, crystalluria, and in severe cases kidney impairment or seizures."
+Amoxicillin,Storage,How should amoxicillin be stored?,"Capsules and tablets should be stored at room temperature in a dry place. Oral suspension should be stored according to manufacturer instructions, often refrigerated, and discarded after the recommended period."
+Amoxicillin,Prescription Status,Is amoxicillin available over the counter?,"No. Amoxicillin is a prescription-only antibiotic in most countries and should only be used under medical supervision."
+Amoxicillin,Precautions,What precautions should patients follow while taking amoxicillin?,"Patients should complete the full prescribed course, avoid using antibiotics for viral infections, inform healthcare providers of any penicillin allergy, and seek medical attention if severe diarrhea or allergic reactions occur."
+
+
+
+
