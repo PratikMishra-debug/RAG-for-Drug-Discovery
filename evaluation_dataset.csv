@@ -109,5 +109,58 @@ Amoxicillin,Prescription Status,Is amoxicillin available over the counter?,"No. 
 Amoxicillin,Precautions,What precautions should patients follow while taking amoxicillin?,"Patients should complete the full prescribed course, avoid using antibiotics for viral infections, inform healthcare providers of any penicillin allergy, and seek medical attention if severe diarrhea or allergic reactions occur."
 
 
+Drug,Category,Question,Reference_Answer
+Atorvastatin,Indication,What is atorvastatin used for?,"Atorvastatin is used to lower low-density lipoprotein (LDL) cholesterol and triglycerides, increase high-density lipoprotein (HDL) cholesterol, and reduce the risk of cardiovascular events such as heart attack and stroke."
+Atorvastatin,Mechanism of Action,How does atorvastatin work?,"Atorvastatin inhibits HMG-CoA reductase, the rate-limiting enzyme in cholesterol synthesis, resulting in reduced hepatic cholesterol production and increased LDL receptor activity that removes LDL cholesterol from the bloodstream."
+Atorvastatin,Dosage,What is the usual adult dose of atorvastatin?,"The usual adult dose ranges from 10 mg to 80 mg once daily depending on the patient's cardiovascular risk, cholesterol levels, and treatment goals."
+Atorvastatin,Side Effects,What are the common side effects of atorvastatin?,"Common side effects include muscle pain, joint pain, headache, diarrhea, nausea, and mild elevations in liver enzymes."
+Atorvastatin,Serious Adverse Effects,What serious side effects can atorvastatin cause?,"Serious adverse effects include rhabdomyolysis, severe muscle injury, liver dysfunction, immune-mediated necrotizing myopathy, and severe allergic reactions, although these are uncommon."
+Atorvastatin,Contraindications,Who should avoid taking atorvastatin?,"Atorvastatin is contraindicated in patients with active liver disease, unexplained persistent elevations of liver enzymes, hypersensitivity to the drug, and during pregnancy."
+Atorvastatin,Pregnancy,Can atorvastatin be used during pregnancy?,"No. Atorvastatin should generally not be used during pregnancy because cholesterol is essential for fetal development and statins may pose risks to the fetus."
+Atorvastatin,Breastfeeding,Is atorvastatin safe during breastfeeding?,"Breastfeeding is generally not recommended while taking atorvastatin because it is unknown whether clinically significant amounts enter breast milk and lipid metabolism in infants could be affected."
+Atorvastatin,Drug Interactions,Which drugs commonly interact with atorvastatin?,"Important interactions include clarithromycin, erythromycin, itraconazole, cyclosporine, protease inhibitors, fibrates, niacin, and grapefruit juice, which may increase atorvastatin concentrations."
+Atorvastatin,Alcohol,Can alcohol be consumed while taking atorvastatin?,"Excessive alcohol intake should be avoided because it may increase the risk of liver injury while taking atorvastatin."
+Atorvastatin,Missed Dose,What should a patient do if a dose of atorvastatin is missed?,"Take the missed dose as soon as remembered unless it is almost time for the next scheduled dose. Do not take two doses at the same time."
+Atorvastatin,Overdose,What are the symptoms of an atorvastatin overdose?,"There is no specific antidote. Symptoms may include muscle pain, weakness, gastrointestinal discomfort, or abnormal liver function. Management is supportive and based on clinical symptoms."
+Atorvastatin,Storage,How should atorvastatin be stored?,"Store atorvastatin tablets at room temperature in a dry place away from heat, moisture, and direct sunlight. Keep out of reach of children."
+Atorvastatin,Prescription Status,Is atorvastatin available over the counter?,"No. Atorvastatin is a prescription-only medication in most countries."
+Atorvastatin,Precautions,What precautions should patients follow while taking atorvastatin?,"Patients should follow a cholesterol-lowering diet, report unexplained muscle pain or weakness, undergo periodic liver function assessment when clinically indicated, and inform healthcare providers about all concurrent medications."
+
+Drug,Category,Question,Reference_Answer
+Omeprazole,Indication,What is omeprazole used for?,"Omeprazole is a proton pump inhibitor (PPI) used to treat gastroesophageal reflux disease (GERD), peptic ulcers, erosive esophagitis, Zollinger-Ellison syndrome, and other conditions involving excessive stomach acid production."
+Omeprazole,Mechanism of Action,How does omeprazole work?,"Omeprazole irreversibly inhibits the hydrogen-potassium ATPase (proton pump) in gastric parietal cells, thereby reducing gastric acid secretion."
+Omeprazole,Dosage,What is the usual adult dose of omeprazole?,"The usual adult dose ranges from 20 mg to 40 mg once daily depending on the medical condition being treated. The dosage and duration should follow healthcare provider recommendations."
+Omeprazole,Side Effects,What are the common side effects of omeprazole?,"Common side effects include headache, abdominal pain, nausea, diarrhea, constipation, flatulence, and vomiting."
+Omeprazole,Serious Adverse Effects,What serious side effects can omeprazole cause?,"Serious adverse effects include Clostridioides difficile-associated diarrhea, acute interstitial nephritis, severe allergic reactions, vitamin B12 deficiency with prolonged use, hypomagnesemia, and increased risk of bone fractures during long-term therapy."
+Omeprazole,Contraindications,Who should avoid taking omeprazole?,"Patients with known hypersensitivity to omeprazole or other proton pump inhibitors should avoid its use unless advised otherwise by a healthcare professional."
+Omeprazole,Pregnancy,Can omeprazole be used during pregnancy?,"Omeprazole may be used during pregnancy when clinically indicated and when the expected benefits outweigh potential risks. Treatment decisions should be made by a healthcare professional."
+Omeprazole,Breastfeeding,Is omeprazole safe during breastfeeding?,"Small amounts of omeprazole may pass into breast milk, but it is generally considered compatible with breastfeeding when clinically indicated."
+Omeprazole,Drug Interactions,Which drugs commonly interact with omeprazole?,"Important interactions include clopidogrel, warfarin, methotrexate, digoxin, diazepam, phenytoin, and medications whose absorption depends on gastric acidity."
+Omeprazole,Alcohol,Can alcohol be consumed while taking omeprazole?,"Although there is no direct contraindication, limiting alcohol is advisable because it may worsen acid reflux symptoms and irritate the stomach lining."
+Omeprazole,Missed Dose,What should a patient do if a dose of omeprazole is missed?,"Take the missed dose as soon as remembered unless it is almost time for the next scheduled dose. Do not take two doses together."
+Omeprazole,Overdose,What are the symptoms of an omeprazole overdose?,"Symptoms may include confusion, blurred vision, drowsiness, headache, nausea, rapid heartbeat, flushing, and dry mouth. Treatment is primarily supportive."
+Omeprazole,Storage,How should omeprazole be stored?,"Store omeprazole at room temperature in a dry place away from heat, moisture, and direct sunlight. Keep the medication in its original container."
+Omeprazole,Prescription Status,Is omeprazole available over the counter?,"Low-dose omeprazole is available over the counter in many countries for short-term treatment of frequent heartburn, while higher-strength formulations require a prescription."
+Omeprazole,Precautions,What precautions should patients follow while taking omeprazole?,"Patients should use the lowest effective dose for the shortest necessary duration, report persistent gastrointestinal symptoms, avoid prolonged self-medication, and discuss long-term therapy with their healthcare provider due to potential nutritional deficiencies and other risks."
+
+
+Drug,Category,Question,Reference_Answer
+Losartan,Indication,What is losartan used for?,"Losartan is an angiotensin II receptor blocker (ARB) used to treat hypertension, reduce the risk of stroke in selected patients with hypertension and left ventricular hypertrophy, and slow the progression of diabetic kidney disease in patients with type 2 diabetes."
+Losartan,Mechanism of Action,How does losartan work?,"Losartan selectively blocks the angiotensin II type 1 (AT1) receptor, preventing vasoconstriction and reducing aldosterone secretion. This lowers blood pressure and decreases the workload on the heart."
+Losartan,Dosage,What is the usual adult dose of losartan?,"The usual starting dose for adults with hypertension is 50 mg once daily. Depending on the patient's response and clinical condition, the dose may range from 25 mg to 100 mg daily."
+Losartan,Side Effects,What are the common side effects of losartan?,"Common side effects include dizziness, fatigue, nasal congestion, back pain, upper respiratory tract infections, and mild increases in blood potassium levels."
+Losartan,Serious Adverse Effects,What serious side effects can losartan cause?,"Serious adverse effects include angioedema, severe hypotension, kidney impairment, hyperkalemia, and rare allergic reactions requiring immediate medical attention."
+Losartan,Contraindications,Who should avoid taking losartan?,"Losartan should generally be avoided in patients with known hypersensitivity to the drug, during pregnancy, and in patients receiving aliskiren who have diabetes. Caution is also required in severe renal impairment."
+Losartan,Pregnancy,Can losartan be used during pregnancy?,"No. Losartan should not be used during pregnancy because it may cause serious fetal injury or death, particularly during the second and third trimesters."
+Losartan,Breastfeeding,Is losartan safe during breastfeeding?,"There is limited information regarding losartan during breastfeeding. Alternative medications with more established safety data are generally preferred, especially while nursing a newborn or preterm infant."
+Losartan,Drug Interactions,Which drugs commonly interact with losartan?,"Important interactions include potassium supplements, potassium-sparing diuretics, NSAIDs, lithium, ACE inhibitors, and aliskiren, which may increase the risk of adverse effects."
+Losartan,Alcohol,Can alcohol be consumed while taking losartan?,"Alcohol may enhance the blood pressure-lowering effects of losartan and increase the risk of dizziness or fainting. Patients should use caution and consult their healthcare provider."
+Losartan,Missed Dose,What should a patient do if a dose of losartan is missed?,"Take the missed dose as soon as remembered unless it is almost time for the next scheduled dose. Do not take two doses together."
+Losartan,Overdose,What are the symptoms of a losartan overdose?,"Symptoms may include severe hypotension, dizziness, rapid or slow heart rate, fainting, and impaired kidney function. Treatment is supportive and based on clinical presentation."
+Losartan,Storage,How should losartan be stored?,"Store losartan tablets at room temperature in a dry place away from moisture, excessive heat, and direct sunlight. Keep out of reach of children."
+Losartan,Prescription Status,Is losartan available over the counter?,"No. Losartan is a prescription-only medication in most countries and should be used under the supervision of a qualified healthcare professional."
+Losartan,Precautions,What precautions should patients follow while taking losartan?,"Patients should monitor blood pressure regularly, have kidney function and serum potassium checked when clinically indicated, avoid potassium-containing salt substitutes unless advised otherwise, and inform healthcare providers of pregnancy or plans to become pregnant."
+
+
 
 
