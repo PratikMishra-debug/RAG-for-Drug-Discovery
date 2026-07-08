@@ -162,5 +162,23 @@ Losartan,Prescription Status,Is losartan available over the counter?,"No. Losart
 Losartan,Precautions,What precautions should patients follow while taking losartan?,"Patients should monitor blood pressure regularly, have kidney function and serum potassium checked when clinically indicated, avoid potassium-containing salt substitutes unless advised otherwise, and inform healthcare providers of pregnancy or plans to become pregnant."
 
 
+Drug,Category,Question,Reference_Answer
+Amlodipine,Indication,What is amlodipine used for?,"Amlodipine is a calcium channel blocker used to treat hypertension (high blood pressure) and chronic stable or vasospastic angina. Lowering blood pressure helps reduce the risk of stroke, heart attack, and kidney complications."
+Amlodipine,Mechanism of Action,How does amlodipine work?,"Amlodipine blocks L-type calcium channels in vascular smooth muscle, causing vasodilation and reducing peripheral vascular resistance. This lowers blood pressure and decreases the heart's workload."
+Amlodipine,Dosage,What is the usual adult dose of amlodipine?,"The usual starting dose for adults is 5 mg once daily. Depending on the patient's response, the dose may be increased to a maximum of 10 mg once daily."
+Amlodipine,Side Effects,What are the common side effects of amlodipine?,"Common side effects include ankle swelling (peripheral edema), dizziness, flushing, headache, fatigue, palpitations, and nausea."
+Amlodipine,Serious Adverse Effects,What serious side effects can amlodipine cause?,"Serious adverse effects are uncommon but include severe hypotension, worsening chest pain when treatment is initiated or the dose is increased, myocardial infarction in susceptible individuals, allergic reactions, and liver dysfunction."
+Amlodipine,Contraindications,Who should avoid taking amlodipine?,"Amlodipine should generally be avoided in individuals with hypersensitivity to the medication. Caution is advised in patients with severe hypotension, cardiogenic shock, severe aortic stenosis, or significant liver impairment."
+Amlodipine,Pregnancy,Can amlodipine be used during pregnancy?,"The safety of amlodipine during pregnancy has not been fully established. It should be used only when the potential benefits outweigh the potential risks and under medical supervision."
+Amlodipine,Breastfeeding,Is amlodipine safe during breastfeeding?,"Small amounts of amlodipine may pass into breast milk. It is generally considered compatible with breastfeeding, but consultation with a healthcare professional is recommended."
+Amlodipine,Drug Interactions,Which drugs commonly interact with amlodipine?,"Important interactions include simvastatin, CYP3A4 inhibitors such as clarithromycin and ketoconazole, rifampicin, other antihypertensive agents, and grapefruit products, which may alter amlodipine concentrations."
+Amlodipine,Alcohol,Can alcohol be consumed while taking amlodipine?,"Alcohol may enhance the blood pressure-lowering effects of amlodipine and increase the risk of dizziness, lightheadedness, or fainting. Patients should use caution."
+Amlodipine,Missed Dose,What should a patient do if a dose of amlodipine is missed?,"Take the missed dose as soon as remembered unless it is almost time for the next scheduled dose. Do not take two doses at the same time."
+Amlodipine,Overdose,What are the symptoms of an amlodipine overdose?,"Symptoms of overdose include severe hypotension, dizziness, rapid heartbeat followed by slow heartbeat, shock, confusion, and loss of consciousness. Immediate medical attention is required."
+Amlodipine,Storage,How should amlodipine be stored?,"Store amlodipine tablets at room temperature away from moisture, excessive heat, and direct sunlight. Keep the medication in its original container and out of reach of children."
+Amlodipine,Prescription Status,Is amlodipine available over the counter?,"No. Amlodipine is a prescription-only medication in most countries and should be used under the supervision of a qualified healthcare professional."
+Amlodipine,Precautions,What precautions should patients follow while taking amlodipine?,"Patients should monitor their blood pressure regularly, rise slowly from sitting or lying positions to reduce dizziness, avoid abruptly discontinuing therapy without medical advice, and inform healthcare providers about all concurrent medications and existing liver disease."
+
+
 
 
