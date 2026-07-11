@@ -1,4 +1,4 @@
-# Drug-RAG: Reducing Hallucination in Drug Question Answering using RAG
+# Drug-RAG: Reducing Hallucination in Drug Question Answering using RAG RESEARCH PAPER 
 
 ## Overview
 
